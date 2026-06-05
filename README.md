@@ -24,4 +24,4 @@ and place it as `movies.csv` in the notebook directory.
 Python, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
 
 ## Author
-Your Name — B.Tech AIML, [Your College Name]
+Akanksha Tiwari — B.Tech AIML, [Jaypee Institute of Information Technology]
